@@ -1,0 +1,22 @@
+﻿Сборка начата 03.02.2015 1:03:26.
+     1>Проект "D:\курсач\Нарды1\Нарды\Нарды.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+         C:\Program Files\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>Main.cpp(2066): warning C4244: аргумент: преобразование "INT" в "FLOAT", возможна потеря данных
+     1>Main.cpp(2121): warning C4244: аргумент: преобразование "INT" в "FLOAT", возможна потеря данных
+     1>Main.cpp(2342): warning C4244: аргумент: преобразование "INT" в "FLOAT", возможна потеря данных
+     1>Main.cpp(2408): warning C4244: аргумент: преобразование "INT" в "FLOAT", возможна потеря данных
+     1>Main.cpp(2580): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\курсач\Нарды1\Нарды\Release\Нарды.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\курсач\Нарды1\Нарды\Release\Нарды.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\курсач\Нарды1\Нарды\Release\Нарды.lib" /MACHINE:X86 /SAFESEH Release\Main.obj
+         Создание кода
+     1>d:\курсач\нарды1\нарды\main.cpp(1557): warning C4715: FirstRun: значение возвращается не при всех путях выполнения
+         Создание кода завершено
+         Нарды.vcxproj -> D:\курсач\Нарды1\Нарды\Release\Нарды.exe
+     1>Сборка проекта "D:\курсач\Нарды1\Нарды\Нарды.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:17.40
